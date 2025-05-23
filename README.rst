@@ -1,7 +1,10 @@
+Django
+======
+
 Django is a high-level Python Web framework that encourages rapid development
 and clean, pragmatic design.
 
-A package named "django" was previously published on NPM. That package **was
+A package named `django` was previously published on NPM. That package **was
 not** Django. However, NPM does not allow packages to be removed from their
 index. This is an empty package replacing the historical package.
 
